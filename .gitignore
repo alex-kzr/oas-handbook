@@ -1,0 +1,10 @@
+.agents-data/
+.env
+.env.*
+*.log
+*.sqlite
+*.sqlite3
+__pycache__/
+.cache/
+.tmp/
+tmp/
